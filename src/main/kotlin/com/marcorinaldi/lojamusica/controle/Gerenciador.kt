@@ -14,4 +14,8 @@ class Gerenciador {
         instrumentos.remove(instrumento)
 
     }
+
+    fun visualizarInstrumentos() : List<Instrumento> {
+        return instrumentos
+    }
 }
