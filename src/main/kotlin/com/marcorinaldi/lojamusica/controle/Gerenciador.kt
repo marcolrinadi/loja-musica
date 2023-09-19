@@ -9,4 +9,9 @@ class Gerenciador {
     fun adicionarInstrumento(instrumento: Instrumento) {
         instrumentos.add(instrumento)
     }
+
+    fun removerInstrumento(instrumento: Instrumento) {
+        instrumentos.remove(instrumento)
+
+    }
 }
