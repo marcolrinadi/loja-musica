@@ -1,4 +1,6 @@
-package com.marcorinaldi.lojamusica
+package com.marcorinaldi.lojamusica.controle
+
+import com.marcorinaldi.lojamusica.objetos.Instrumento
 
 class Gerenciador {
 

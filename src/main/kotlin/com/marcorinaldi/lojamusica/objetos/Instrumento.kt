@@ -1,4 +1,4 @@
-package com.marcorinaldi.lojamusica
+package com.marcorinaldi.lojamusica.objetos
 
 data class Instrumento(
     val id: Int,
